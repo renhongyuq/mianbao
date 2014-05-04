@@ -1,0 +1,24 @@
+---
+layout: post
+title: "kidszoo"
+date: 2014-04-30 22:39:31 +0200
+comments: true
+categories: 膳食补充剂 小朋友专区
+---
+__适合小朋友吃的咀嚼维他命，样式可爱口味可口～—__
+<!-- more -->
+
+{% img center /images/2014/kidszoo/kidszoo1.png %}
+***
+
+组合A：各种宝宝生长需要的维生素大集合
+
+组合B：专门补钙和维生素D
+
+组合C：专门补锌和维生素C
+
+以上每瓶都是60粒，150元～另外还有：
+
+组合D：专门补充omega3的鱼油咀嚼粒
+
+90粒，219元～
